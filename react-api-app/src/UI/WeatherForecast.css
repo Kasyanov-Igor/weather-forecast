@@ -1,0 +1,56 @@
+
+h1{
+color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2.5em;
+}
+
+.city {
+  font-size: 1.3em;
+  color: #3498db;
+  margin: 20px 0;
+  text-align: center;
+}
+
+  .weather-info p{
+    margin: 10px 0;
+  color: #7f8c8d;
+  font-size: 1.1em;
+  }
+ 
+
+.temperature-box {
+  background-color: #a8e6cf;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  width: fit-content;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-size: 2em;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.feels-like-box{
+    background-color: #82e0aa;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 10px auto;
+  width: fit-content;
+  font-size: 0.9em;
+  font-weight: bold;
+  color: #2c3e50;  
+}
+
+.weather-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
